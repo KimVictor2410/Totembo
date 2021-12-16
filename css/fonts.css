@@ -1,0 +1,22 @@
+/* montserrat */
+@font-face{
+    font-family: 'montserrat';
+    src: url('../fonts/montserrat/Montserrat-Regular.ttf') format('truetype');
+    font-weight: 400;
+}
+@font-face{
+    font-family: 'montserrat';
+    src: url('../fonts/montserrat/Montserrat-Bold.ttf') format('truetype');
+    font-weight: 700;
+}
+/* icons */
+@font-face{
+    font-family: 'icons';
+    src: url('../fonts/icons/fa-light-300.ttf') format('truetype');
+    font-weight: 400;
+}
+@font-face{
+    font-family: 'icons';
+    src: url('../fonts/icons/fa-duotone-900.ttf') format('truetype');
+    font-weight: 900;
+}
